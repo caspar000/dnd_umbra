@@ -317,10 +317,10 @@
 მისი ექსპერიმენტები.
 
 აგურით მოშენებულ ბიბლიოთეკაში ექსპედიტორებმა იპოვეს:
-1) [[https://roll20.net/compendium/dnd5e/Items:Wand%20of%20the%20War%20Mage%2C%20%2B1#content]][Wand of war mages]
-2) [[https://roll20.net/compendium/dnd5e/Staff%20of%20Withering#content]][Staff of Withering]
-3) [[https://www.dandwiki.com/wiki/Alastor_(5e_Equipment)]][Alastor]
-4) [[https://www.dandwiki.com/wiki/Artifice_Sword_(5e_Equipment)]][Artifice Sword]
-5) [[https://roll20.net/compendium/dnd5e/Rod%20of%20Absorption#content]][Rod of Absorption]
+1) [[https://roll20.net/compendium/dnd5e/Items:Wand%20of%20the%20War%20Mage%2C%20%2B1#content][Wand of war mages]]
+2) [[https://roll20.net/compendium/dnd5e/Staff%20of%20Withering#content][Staff of Withering]]
+3) [[https://www.dandwiki.com/wiki/Alastor_(5e_Equipment)][Alastor]]
+4) [[https://www.dandwiki.com/wiki/Artifice_Sword_(5e_Equipment)][Artifice Sword]]
+5) [[https://roll20.net/compendium/dnd5e/Rod%20of%20Absorption#content][Rod of Absorption]]
 6) 5 potions of greater healing
 7) 5 Adamantine bars
